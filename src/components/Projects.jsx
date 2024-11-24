@@ -12,7 +12,7 @@ const Projects = () => {
     const [activeCategory, setActiveCategory] = useState('all');
 
     useEffect(() => {
-        fetch("https://portfolio-backend-production-9324.up.railway.app/projects")
+        fetch("https://portfolio-backend-o0v6.onrender.com/projects")
             .then(response => response.json())
             .then(data => {
                 setProjects(data);
