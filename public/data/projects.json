@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Chatify (React, Go)",
+        "githubLink": "https://github.com/thanthtooaung-coding/chatify-react",
+        "imgUrl": "/img/project-img0.png",
+        "category": "Full-Stack"
+    },
+    {
+        "title": "Work From Home System",
+        "githubLink": "https://github.com/thanthtooaung-coding/work-From-Home-System",
+        "imgUrl": "/img/project-img1.png",
+        "category": "Full-Stack"
+    },
+    {
+        "title": "Personal Blog API",
+        "githubLink": "https://github.com/thanthtooaung-coding/blog-space",
+        "imgUrl": "/img/project-img2.png",
+        "category": "Backend"
+    },
+    {
+        "title": "Cafe Management System (VueJS)",
+        "githubLink": "https://github.com/thanthtooaung-coding/Cafe-Management-System-Frontend",
+        "imgUrl": "/img/project-img3.png",
+        "category": "Frontend"
+    },
+    {
+        "title": "Cafe Management System (Spring Boot)",
+        "githubLink": "https://github.com/thanthtooaung-coding/Cafe-Management-System-Backend",
+        "imgUrl": "/img/project-img4.png",
+        "category": "Backend"
+    },
+    {
+        "title": "Attendance And Payroll Management System (Python Flask)",
+        "githubLink": "https://github.com/thanthtooaung-coding/Employee-Attendance-And-Payroll-Management-System",
+        "imgUrl": "/img/project-img5.png",
+        "category": "Full-Stack"
+    },
+    {
+        "title": "EduVerse",
+        "githubLink": "https://github.com/thanthtooaung-coding/edu-verse",
+        "imgUrl": "/img/project-img6.png",
+        "category": "Backend"
+    },
+    {
+        "title": "Social Networking System",
+        "githubLink": "https://github.com/thanthtooaung-coding/vinnet",
+        "imgUrl": "/img/project-img7.png",
+        "category": "Full-Stack"
+    },
+    {
+        "title": "Note Taking App",
+        "githubLink": "https://github.com/thanthtooaung-coding/note-app",
+        "imgUrl": "/img/project-img8.png",
+        "category": "Frontend"
+    },
+    {
+        "title": "Music Player Application (Java Swing)",
+        "githubLink": "https://github.com/thanthtooaung-coding/HarmoniX-App",
+        "imgUrl": "/img/project-img9.png",
+        "category": "Full-Stack"
+    },
+    {
+        "title": "The Irish (JavaScript Game Website)",
+        "githubLink": "https://github.com/thanthtooaung-coding/the-irish",
+        "imgUrl": "/img/project-img10.png",
+        "category": "Frontend"
+    },
+    {
+        "title": "Attendance And Payroll Management System (Spring Boot)",
+        "githubLink": "https://github.com/thanthtooaung-coding/VinnTrack",
+        "imgUrl": "/img/project-img11.png",
+        "category": "Full-Stack"
+    }
+]

@@ -11,8 +11,11 @@ const Projects = () => {
     const [filteredProjects, setFilteredProjects] = useState([]);
     const [activeCategory, setActiveCategory] = useState('all');
 
+    const DATA_URL = "/data/projects.json"
+
     useEffect(() => {
-        fetch("https://portfolio-backend-o0v6.onrender.com/projects")
+        // fetch("https://portfolio-backend-o0v6.onrender.com/projects") // Temporarily commented out the backend URL due to ongoing AWS S3 MFA issue
+        fetch(DATA_URL)
             .then(response => response.json())
             .then(data => {
                 setProjects(data);
