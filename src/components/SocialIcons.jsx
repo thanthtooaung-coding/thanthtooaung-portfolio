@@ -8,7 +8,7 @@ import navIcon4 from '../assets/img/nav-icon4.svg';
 const SocialIcons = () => {
     return (
         <div className="social-icon">
-            <Link to={"https://www.linkedin.com/in/thant-htoo-aung-b47374267"} target="_blank">
+            <Link to={"https://www.linkedin.com/in/thant-htoo-aung-"} target="_blank">
                 <img src={navIcon1} alt="LinkedIn Icon" />
             </Link>
             <Link to={"https://github.com/thanthtooaung-coding"} target="_blank">
